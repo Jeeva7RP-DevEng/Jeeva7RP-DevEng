@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @JeevaRP-SDE
-- 👀 I’m interested in ... FULL STACK DEVELOPEMENT
-- 🌱 I’m currently learning ... ANGULAR ASP.NET C# 
-- 📫 How to reach me ... jeevaklm007@gmail.com
 
-<!---
-JeevaRP-SDE/JeevaRP-SDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Jeeva R P</h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+<h3 align="center">A passionate Full Stack Developer and from India</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
+</div>
 
