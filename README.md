@@ -6,7 +6,7 @@
 </div>
 
 
-<h3 align="center">A passionate Full Stack Developer and from India</h3>
+<h3 align="center">A passionate Full Stack Developer  from India</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
