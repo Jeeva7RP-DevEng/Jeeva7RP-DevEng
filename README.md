@@ -1,27 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Jeeva R P</h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-<h3 align="center">A passionate Full Stack Developer  from India</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
-</div>
-
-
-
 
 ### Hi there! 👋
 
 ---
 
-# I'm [Your Name] 🚀
+# I'm Jeeva RP 🚀
 
-### .NET Full Stack Developer | Passionate About Building Amazing Products 🌐
+### Full Stack Developer | Passionate About Building Amazing Products 🌐
 
 ---
 
@@ -62,23 +47,23 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaRP-SDE&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Contribution Highlights:
 
 ### Pull Requests:
-- 🟢 **Merged:** XX
-- 🟡 **Open:** XX
+- 🟢 **Merged:** 10
+- 🟡 **Open:** 0
 
 ### Issues:
-- 🟢 **Closed:** XX
-- 🟡 **Open:** XX
+- 🟢 **Closed:** 3
+- 🟡 **Open:** 0
 
 ### Commits:
-- 🔥 **Total Commits:** XX
+- 🔥 **Total Commits:** 12
 - 💡 **Frequent Areas:** Bug Fixes, Feature Development, Performance Optimization
 
 ---
