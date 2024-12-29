@@ -1,77 +1,89 @@
-
-
-### Hi there! 👋
+### Hi there! 👋 Welcome to My GitHub Profile
 
 ---
 
-# I'm Jeeva RP 🚀
-
-### Full Stack Developer | Passionate About Building Amazing Products 🌐
+# 💻 Jeeva RP - Full Stack Developer 🚀
 
 ---
 
-## 🚀 About Me:
-- 💻 **Full Stack Developer** with expertise in .NET, Angular, and SQL.
-- 🌟 Proficient in **AWS**, **Azure**, and **GCP** cloud platforms.
-- 🛠️ Focused on **clean code**, **scalable architecture**, and **microservices**.
-- 📈 Always exploring innovative ways to enhance **code quality** and **team collaboration**.
+## 🌟 About Me
+
+- 👨‍💻 **Passionate  Full Stack Developer** with a flair for building scalable, efficient, and robust applications.
+- 🌐 Experienced in **frontend** and **backend development**, leveraging the best tools and practices in the industry.
+- ☁️ Skilled in **AWS**, **Azure**, and **GCP** cloud ecosystems.
+- 🔧 Proficient in designing **microservices**, implementing **clean architecture**, and writing **high-quality code**.
 
 ---
 
-## 🛠️ Tech Stack & Skill Levels:
+## 🛠️ My Tech Toolbox:
 
 ### **Languages & Frameworks:**
-| Skill                 | Level       |
-|-----------------------|-------------|
-| C#                   | ⭐⭐⭐⭐⭐     |
-| .NET Core/.NET 7     | ⭐⭐⭐⭐⭐     |
-| SQL                  | ⭐⭐⭐⭐⭐     |
-| Angular              | ⭐⭐⭐⭐      |
-| JavaScript/TypeScript| ⭐⭐⭐⭐      |
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-%23E34F26.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</div>
 
 ### **Cloud Platforms:**
-| Platform | Level       |
-|----------|-------------|
-| AWS      | ⭐⭐⭐⭐      |
-| Azure    | ⭐⭐⭐⭐      |
-| GCP      | ⭐⭐⭐⭐      |
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+</div>
 
-### **Development & DevOps Tools:**
-| Tool                     | Proficiency |
-|--------------------------|-------------|
-| Git/GitHub               | ⭐⭐⭐⭐⭐     |
-| Docker/Kubernetes        | ⭐⭐⭐⭐      |
-| CI/CD Pipelines (GitHub Actions, Jenkins) | ⭐⭐⭐⭐ |
-
----
-
-## 📊 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaRP-SDE&layout=compact&theme=radical)
+### **DevOps Tools:**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/CI/CD-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+</div>
 
 ---
 
-## 🌟 Contribution Highlights:
+## 📊 GitHub Analytics:
 
-### Pull Requests:
-- 🟢 **Merged:** 10
-- 🟡 **Open:** 0
-
-### Issues:
-- 🟢 **Closed:** 3
-- 🟡 **Open:** 0
-
-### Commits:
-- 🔥 **Total Commits:** 12
-- 💡 **Frequent Areas:** Bug Fixes, Feature Development, Performance Optimization
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Your GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
-## 🔥 My Workflows:
-### 
-- [x] **Microservices Architecture** 
-- [x] **Event-Driven Systems**
-- [x] **Database Optimization** 
+## 🔥 Contribution Highlights:
 
-**** 
+| **Category**    | **Count** |
+|------------------|-----------|
+| 🔄 Pull Requests | XX        |
+| 🛠️ Issues         | XX        |
+| 🚀 Commits       | XX        |
+
+---
+
+## 🏆 My Projects:
+
+- **[Ecommerce](#)**: A short description of your project.
+- **[Hospital Management System](#)**: Another cool project description.
+
+---
+
+## 🌐 Connect with Me:
+
+<div align="center">
+  <a href="https:[//www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jeeva-r-p-/)">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[https://github.com/yourusername](https://github.com/JeevaRP-SDE/)">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="jeevaklm007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
