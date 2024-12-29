@@ -73,7 +73,7 @@
 ## 🌐 Connect with Me:
 
 <div align="center">
-  <a href="https:https://www.linkedin.com/in/jeeva-r-p-/">
+  <a href="https://www.linkedin.com/in/jeeva-r-p-/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/JeevaRP-SDE/">
