@@ -46,9 +46,9 @@
 ## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Your GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeevaRP-SDE&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Your GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaRP-SDE&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -57,9 +57,9 @@
 
 | **Category**    | **Count** |
 |------------------|-----------|
-| 🔄 Pull Requests | XX        |
-| 🛠️ Issues         | XX        |
-| 🚀 Commits       | XX        |
+| 🔄 Pull Requests | 10        |
+| 🛠️ Issues         | 3        |
+| 🚀 Commits       | 10        |
 
 ---
 
@@ -73,10 +73,10 @@
 ## 🌐 Connect with Me:
 
 <div align="center">
-  <a href="https:[//www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jeeva-r-p-/)">
+  <a href="https:https://www.linkedin.com/in/jeeva-r-p-/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://github.com/yourusername](https://github.com/JeevaRP-SDE/)">
+  <a href="https://github.com/JeevaRP-SDE/">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="jeevaklm007@gmail.com">
