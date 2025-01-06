@@ -1,9 +1,18 @@
-### Hi there! 👋 Welcome to My GitHub Profile
+<h1 align="center">Hi 👋, I'm Jeeva RP</h1>
+<h3 align="center">Software Development Engineer | Full Stack Developer | GCE - Salem  | Building Quality Education System | Equality </h3>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=JeevaRP-SDE&color=green)
 
-# 💻 Jeeva RP - Full Stack Developer 🚀
 
+- 🔭 Working on Many things
+
+- 👯 I’m looking to collaborate on **building Stuff**
+
+- 🤝 I’m looking for help with **blockchain development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JeevaRP-SDE](https://github.com/JeevaRP-SDE)
+
+- 📫 How to reach me **jeevaklm007@gmail.com**
 ---
 
 ## 🌟 About Me
@@ -47,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeevaRP-SDE&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Your GitHub Streak"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaRP-SDE&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
