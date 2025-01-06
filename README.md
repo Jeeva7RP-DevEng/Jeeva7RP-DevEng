@@ -52,23 +52,15 @@
 
 ---
 
+
+
 ## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeevaRP-SDE&show_icons=true&locale=en&layout=compact" alt="JeevaRP-SDE" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaRP-SDE&layout=compact&theme=radical" alt="Top Languages"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeevaRP-SDE&show_icons=true&locale=en" alt="JeevaRP-SDE" /></p>
 </div>
-
----
-
-## 🔥 Contribution Highlights:
-
-| **Category**    | **Count** |
-|------------------|-----------|
-| 🔄 Pull Requests | 10        |
-| 🛠️ Issues         | 3        |
-| 🚀 Commits       | 10        |
 
 ---
 
