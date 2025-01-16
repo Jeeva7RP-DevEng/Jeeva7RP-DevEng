@@ -92,6 +92,8 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 # Beak-Test-App
 **Beak Test App** is an app that helps users learn how to use the Beak application. You can use this test app to test the coolness of Beak.
 
+https://t.bkit.co/l_6788b31833600
+
 #### You can checkout the [**Demo Here**](https://beakit.com/) :boom:
 
 # Testing and more testing :sparkles:
