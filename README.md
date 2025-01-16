@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **building Stuff**
 
-- 🤝 I’m looking for help with **blockchain development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/JeevaRP-SDE](https://github.com/JeevaRP-SDE)
 
 - 📫 How to reach me **jeevaklm007@gmail.com**
