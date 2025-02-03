@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **building Stuff**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JeevaRP-SDE](https://github.com/JeevaRP-SDE)
+- 👨‍💻 All of my projects are available at [https://github.com/JeevaRP-SDE](https://github.com/Jeeva7RP-DevEng)
 
 - 📫 How to reach me **jeevaklm007@gmail.com**
 ---
