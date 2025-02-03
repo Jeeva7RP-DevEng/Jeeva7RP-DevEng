@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeeva RP</h1>
-<h3 align="center">Software Development Engineer 1| Full Stack Developer | Building Quality Education System | Equality </h3>
+<h3 align="center">Software Development Engineer 1| Full Stack Developer | Building Quality System | </h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeeva7RP-DevEng&color=green)
